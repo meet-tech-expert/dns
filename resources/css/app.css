@@ -1,0 +1,16 @@
+.toast-notification {
+    height: 5em;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color: #47d847 !important;
+    color: white;
+}
+.toast-notification.bg-danger {
+    height: 5em;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    background-color: #d84747 !important;
+    color: white;
+}
